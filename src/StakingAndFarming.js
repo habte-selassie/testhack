@@ -1,33 +1,32 @@
-import * as React from 'react';
+import React from 'react';
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import * as React from 'react';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormHelperText from '@mui/material/FormHelperText';
 import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
-import * as React from 'react';
+
 import { LineChart } from '@mui/x-charts/LineChart';
-import * as React from 'react';
+
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import * as React from 'react';
+
 import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import React, { useEffect, useState } from 'react';
 import { Card, CardContent, Typography, Box } from '@mui/material';
 import { styled } from '@mui/material/styles';
 
-import React from 'react'
+
 
  function StakingYeildFarming() {
  
