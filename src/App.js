@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import StakingYieldFarming from './StakingAndFarming';
-import GovernanceAndVoting from './Governance';
+// import GovernanceAndVoting from './Governance';
 
 class App extends Component {
   render() {
@@ -8,7 +8,7 @@ class App extends Component {
       <div>
       <h1>Main Application</h1>
       <StakingYieldFarming />
-      <GovernanceAndVoting />
+      
     </div>
    );
   }
